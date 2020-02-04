@@ -1,4 +1,13 @@
 /* Base */
+
+.my{
+  position:relative; 
+  top:-4px;
+  font-size: 0.6rem;
+  color: #bd1220 !important;
+  font-weight: bold;
+  text-transform: uppercase;
+}
 body {
   line-height: 1.7;
   color: gray;
